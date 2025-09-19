@@ -16,6 +16,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
@@ -38,6 +39,7 @@ collections:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
@@ -60,6 +62,7 @@ collections:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
@@ -82,6 +85,7 @@ collections:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
@@ -104,6 +108,7 @@ collections:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
@@ -126,6 +131,7 @@ collections:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Drive Link", name: "link", widget: "string" }
       - { label: "Start at", name: "start", widget: "datetime", required: false }
       - { label: "Finish at", name: "end", widget: "datetime", required: false }
       - { label: "Cover Image", name: "image", widget: "image" }
