@@ -22,7 +22,8 @@
         display: flex;
         gap: 3rem;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: flex-start;
+        max-width: 1440px;
         .blog-item{
             padding-bottom: 2rem;
             border-bottom: 1px solid $brown-500;
@@ -108,7 +109,7 @@
         .blog-wrap{
             display: flex;
             gap: 2rem;
-            flex-wrap: wrap;
+            flex-direction: column;
             width: 100%;
             .blog-item{
                 padding-bottom: 2rem;
