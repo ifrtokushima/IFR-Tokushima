@@ -1,6 +1,7 @@
 ---
 title: Manipal Students
-description: Students from Manipal visited Tokushima University
+description: Students from Manipal College of Dental Sciences (MCODS) visited
+  Tokushima University
 link: https://drive.google.com/drive/folders/1puxUMU9U9Sxbvm9syY8pYLPmZCVUdc9b?usp=drive_link
 start: 2024-10-09T17:20:00.000+09:00
 image: https://res.cloudinary.com/ds2vdyndv/image/upload/v1758287876/IMG_3336_knzicb.jpg
